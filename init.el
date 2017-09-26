@@ -70,7 +70,7 @@
 ;;move line up/down
 (global-set-key (kbd "M-<up>")  'move-line-up)
 (global-set-key (kbd "M-<down>")  'move-line-down)
-}
+
 
 ;;keep the buffers saved when session is closed and a new session is started
 ;;(desktop-save-mode)
